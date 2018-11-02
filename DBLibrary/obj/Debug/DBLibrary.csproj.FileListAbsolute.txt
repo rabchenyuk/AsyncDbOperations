@@ -1,0 +1,14 @@
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\bin\Debug\DBLibrary.dll.config
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\bin\Debug\DBLibrary.dll
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\bin\Debug\DBLibrary.pdb
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\bin\Debug\EntityFramework.dll
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\bin\Debug\EntityFramework.xml
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\obj\Debug\DBLibrary.Migrations.CreateTestEntityTable.resources
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\obj\Debug\DBLibrary.csproj.GenerateResource.cache
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\obj\Debug\DBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\obj\Debug\DBLibrary.csproj.CopyComplete
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\obj\Debug\DBLibrary.dll
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\obj\Debug\DBLibrary.pdb
+C:\Users\User-PC\source\repos\AsyncLoadToDB\DBLibrary\obj\Debug\DBLibrary.csprojAssemblyReference.cache

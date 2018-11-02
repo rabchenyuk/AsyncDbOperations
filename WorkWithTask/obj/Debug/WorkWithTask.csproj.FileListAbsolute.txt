@@ -1,0 +1,15 @@
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\bin\Debug\WorkWithTask.dll.config
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\bin\Debug\WorkWithTask.dll
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\bin\Debug\WorkWithTask.pdb
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\bin\Debug\DBLibrary.dll
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\bin\Debug\EntityFramework.dll
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\bin\Debug\DBLibrary.pdb
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\bin\Debug\DBLibrary.dll.config
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\bin\Debug\EntityFramework.xml
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\obj\Debug\WorkWithTask.csprojAssemblyReference.cache
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\obj\Debug\WorkWithTask.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\obj\Debug\WorkWithTask.csproj.CopyComplete
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\obj\Debug\WorkWithTask.dll
+C:\Users\User-PC\source\repos\AsyncLoadToDB\WorkWithTask\obj\Debug\WorkWithTask.pdb
